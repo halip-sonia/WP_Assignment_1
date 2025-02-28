@@ -1,0 +1,49 @@
+body{
+    padding: 25px;
+}
+.sect1 {
+    color: #FF91A4;
+}
+.artic{
+    color: #40e0d0;
+}
+
+.logo{
+    float:left;
+}
+.page{
+    background-image: url("media/inbg.png");
+
+}
+.top-nav
+{
+    padding-bottom: 20px;
+    width: 24%;
+    margin: auto;
+}
+.tably{
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th,tr,td{
+    border: 1px solid black;
+}
+.foot
+{
+    padding-top: 20px;
+    text-align: center;
+
+}
+
+
+
+/*aside {*/
+/*    width: 30%;*/
+/*    padding-left: 15px;*/
+/*    margin-left: 15px;*/
+/*    float: right;*/
+/*    font-style: italic;*/
+/*    background-color: lightgray;*/
+/*}*/
